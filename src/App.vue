@@ -188,7 +188,7 @@ export default {
   },
   async created() {
     try {
-      const res = await fetch("/data/gacha.json");
+      const res = await fetch(process.env.BASE_URL + "data/gacha.json");
       if (!res.ok) {
         throw new Error("HTTP " + res.status);
       }
