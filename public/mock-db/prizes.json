@@ -1,0 +1,267 @@
+[
+  {
+    "id": 100,
+    "gacha_id": 1,
+    "tier": "最後",
+    "name": "最後賞 巴索羅繆·大熊VS傑伊葛西亞·薩圖恩 Revible Moment",
+    "description": "公仔",
+    "image_url": "https://img.toy-people.com/member/176456858671_1200.webp",
+    "total": 1,
+    "remaining": 1,
+    "weight": 9
+  },
+  {
+    "id": 101,
+    "gacha_id": 1,
+    "tier": "A",
+    "name": "A賞 五檔魯夫vs波爾薩利諾 Revible Moment",
+    "description": "公仔",
+    "image_url": "https://img.toy-people.com/member/176456859183_1200.webp",
+    "total": 2,
+    "remaining": 2,
+    "weight": 10
+  },
+  {
+    "id": 102,
+    "gacha_id": 1,
+    "tier": "B",
+    "name": "B賞 索隆 MASTERLISE EXPIECE",
+    "description": "公仔",
+    "image_url": "https://img.toy-people.com/member/176456858915_1200.webp",
+    "total": 2,
+    "remaining": 2,
+    "weight": 11
+  },
+  {
+    "id": 103,
+    "gacha_id": 1,
+    "tier": "C",
+    "name": "C賞 香吉士 MASTERLISE EXPIECE",
+    "description": "公仔",
+    "image_url": "https://img.toy-people.com/member/176456858894_1200.webp",
+    "total": 1,
+    "remaining": 1,
+    "weight": 12
+  },
+  {
+    "id": 104,
+    "gacha_id": 1,
+    "tier": "D",
+    "name": "D賞 夜殘刨瀧·V·茄壽郎 MASTERLISE EXPIECE",
+    "description": "公仔",
+    "image_url": "https://img.toy-people.com/member/176456858779_1200.webp",
+    "total": 1,
+    "remaining": 1,
+    "weight": 13
+  },
+  {
+    "id": 105,
+    "gacha_id": 1,
+    "tier": "E",
+    "name": "E賞 五檔魯夫馬克杯",
+    "description": "馬克杯",
+    "image_url": "https://img.toy-people.com/member/176456858344_1200.webp",
+    "total": 1,
+    "remaining": 1,
+    "weight": 14
+  },
+  {
+    "id": 106,
+    "gacha_id": 1,
+    "tier": "F",
+    "name": "F賞 披薩盒收納毯",
+    "description": "收納毯",
+    "image_url": "https://img.toy-people.com/member/176456858285_1200.webp",
+    "total": 1,
+    "remaining": 1,
+    "weight": 15
+  },
+  {
+    "id": 107,
+    "gacha_id": 1,
+    "tier": "G",
+    "name": "G賞 提花毛巾",
+    "description": "毛巾",
+    "image_url": "https://img.toy-people.com/member/17645685823_1200.webp",
+    "total": 6,
+    "remaining": 6,
+    "weight": 16
+  },
+  {
+    "id": 108,
+    "gacha_id": 1,
+    "tier": "H",
+    "name": "H賞 剪影鑰匙圈",
+    "description": "鑰匙圈",
+    "image_url": "https://img.toy-people.com/member/176456858122_1200.webp",
+    "total": 4,
+    "remaining": 4,
+    "weight": 17
+  },
+  {
+    "id": 109,
+    "gacha_id": 1,
+    "tier": "I",
+    "name": "I賞 ACLLECT - 海賊王- 未來島蛋頭篇",
+    "description": "立牌",
+    "image_url": "https://img.toy-people.com/member/176456858010_1200.webp",
+    "total": 18,
+    "remaining": 18,
+    "weight": 18
+  },
+  {
+    "id": 110,
+    "gacha_id": 1,
+    "tier": "J",
+    "name": "J賞 橡膠雜貨組合",
+    "description": "橡膠吊飾 / 杯墊",
+    "image_url": "https://img.toy-people.com/member/176456857997_1200.webp",
+    "total": 22,
+    "remaining": 22,
+    "weight": 19
+  },
+  {
+    "id": 111,
+    "gacha_id": 1,
+    "tier": "K",
+    "name": "K賞 透明資料夾＆貼紙套組",
+    "description": "資料夾＆貼紙",
+    "image_url": "https://img.toy-people.com/member/176456857999_1200.webp",
+    "total": 22,
+    "remaining": 22,
+    "weight": 20
+  },
+  {
+    "id": 20001,
+    "gacha_id": 1002,
+    "tier": "最後",
+    "name": "最後賞 燕尾服「尼克」公仔 約26 cm",
+    "description": "最後賞 燕尾服尼克 約26 cm",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/1cccb1f36df94bfefbe78db30d07dd26.png",
+    "total": 1,
+    "remaining": 1,
+    "weight": 1
+  },
+  {
+    "id": 20002,
+    "gacha_id": 1002,
+    "tier": "A",
+    "name": "A賞 《動物方城市 2》海報造型公仔 約21cm",
+    "description": "A賞 海報造型公仔",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/006e2f3ab598c022883a62e37bd2247f.png",
+    "total": 2,
+    "remaining": 2,
+    "weight": 1
+  },
+  {
+    "id": 20003,
+    "gacha_id": 1002,
+    "tier": "B",
+    "name": "B賞 夏威夷襯衫",
+    "description": "B賞 夏威夷襯衫",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/107910f3f1309341b7a374adba00fa18.png",
+    "total": 2,
+    "remaining": 2,
+    "weight": 1
+  },
+  {
+    "id": 20004,
+    "gacha_id": 1002,
+    "tier": "C",
+    "name": "C賞 漁夫帽",
+    "description": "C賞 漁夫帽",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/524e647421f828a33ee3a7a0aa826925.png",
+    "total": 1,
+    "remaining": 1,
+    "weight": 1
+  },
+  {
+    "id": 20005,
+    "gacha_id": 1002,
+    "tier": "D",
+    "name": "D賞 棒球帽",
+    "description": "D賞 棒球帽",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/3f8f32c199f92cb16466ef98f6685d43.png",
+    "total": 1,
+    "remaining": 1,
+    "weight": 1
+  },
+  {
+    "id": 20006,
+    "gacha_id": 1002,
+    "tier": "E",
+    "name": "E賞 托特包(全2種隨機)",
+    "description": "E賞 托特包 (全2種)",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/99264a066a867060fc1f96f6618b85b3.png",
+    "total": 4,
+    "remaining": 4,
+    "weight": 1
+  },
+  {
+    "id": 20007,
+    "gacha_id": 1002,
+    "tier": "F",
+    "name": "F賞 橡膠吊飾鑰匙圈 (全4種隨機)",
+    "description": "F賞 吊飾鑰匙圈(全4種)",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/83e47a85e0521f0d7fdfbf51d3d91ee0.png",
+    "total": 4,
+    "remaining": 4,
+    "weight": 1
+  },
+  {
+    "id": 20008,
+    "gacha_id": 1002,
+    "tier": "G",
+    "name": "G賞 壓克力立牌道具 (全6種隨機)",
+    "description": "G賞 壓克力立牌(全6種)",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/f4d3d87eda83083a808dd8afef837d93.png",
+    "total": 12,
+    "remaining": 12,
+    "weight": 1
+  },
+  {
+    "id": 20009,
+    "gacha_id": 1002,
+    "tier": "H",
+    "name": "H賞 多功能收納包 (全7種隨機)",
+    "description": "H賞 多功能收納包(全7種)",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/633e7d05b7ce720f8e0092d66e1aeec7.png",
+    "total": 14,
+    "remaining": 14,
+    "weight": 1
+  },
+  {
+    "id": 20010,
+    "gacha_id": 1002,
+    "tier": "I",
+    "name": "I賞 隨身鏡 (全5種隨機)",
+    "description": "I賞 隨身鏡(全5種)",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/a9ffe91d8195136f43d584f857085b04.png",
+    "total": 10,
+    "remaining": 10,
+    "weight": 1
+  },
+  {
+    "id": 20011,
+    "gacha_id": 1002,
+    "tier": "J",
+    "name": "J賞 夾鏈袋組 (全6種隨機)",
+    "description": "J賞 夾鏈袋組(全6種)",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/733a03d06490f22b5eb8fc113c60dca5.png",
+    "total": 14,
+    "remaining": 14,
+    "weight": 1
+  },
+  {
+    "id": 20012,
+    "gacha_id": 1002,
+    "tier": "K",
+    "name": "K賞 貼紙組 (全8種隨機)",
+    "description": "K賞 貼紙組(全8種)",
+    "image_url": "https://d2k0ho18x753k7.cloudfront.net/upload/img_up/31710/643/8d0650681e5e55a94c7edc9745d060ec.png",
+    "total": 16,
+    "remaining": 16,
+    "weight": 1
+  }
+]
+
