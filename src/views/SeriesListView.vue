@@ -204,7 +204,7 @@ export default {
   },
   async mounted() {
     try {
-      const res = await fetch("/mock-db/gachas.json");
+      const res = await fetch(`${process.env.BASE_URL}mock-db/gachas.json`);
       if (!res.ok) throw new Error("gachas.json HTTP " + res.status);
       const data = await res.json();
       this.gachas = Array.isArray(data) ? data : (data.items || []);
