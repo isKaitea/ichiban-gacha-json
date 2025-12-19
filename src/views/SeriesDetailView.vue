@@ -339,8 +339,8 @@ export default {
   },
   async mounted() {
     try {
-      const gRes = await fetch(`${process.env.BASE_URL}mock-db/gachas.json`);
-      const pRes = await fetch(`${process.env.BASE_URL}mock-db/prizes.json`);
+      const gRes = await fetch("/ichiban-gacha-json/mock-db/gachas.json");
+      const pRes = await fetch("/ichiban-gacha-json/mock-db/prizes.json");
       if (!gRes.ok) throw new Error("gachas.json HTTP " + gRes.status);
       if (!pRes.ok) throw new Error("prizes.json HTTP " + pRes.status);
 
