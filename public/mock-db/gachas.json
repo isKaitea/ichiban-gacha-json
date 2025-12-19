@@ -15,7 +15,7 @@
   {
     "id": 1002,
     "code": "ONEONE-31002",
-    "name": "前10抽優惠 快樂賞 – 動物方城市 2",
+    "name": "動物方城市 2",
     "description": "〖前10抽優惠〗快樂賞 《動物方城市 2》，含 A~K 賞與最後賞。", 
     "tags": ["動物方城市", "Disney", "快樂賞"],
     "price": 350,
@@ -24,5 +24,24 @@
     "like_count": 0,
     "total_draws": 80,
     "created_at": "2025-12-18T00:00:00"
+  },
+  {
+    "id": 1003,
+    "code": "ONEONE-31003",
+    "name": "わたしの幸せな結婚",
+    "description": "	
+※発送目安は注文状況や商品によって発送時期が前後する場合があります。
+※画像はイメージです。実際の商品とはデザイン・仕様が一部異なる場合がございます。
+※各賞の当選確率は購入者全体（くじ全体）での当選確率を表記しており、また抽選1回毎に表記の確率で抽選がおこなわれます。お客様ごとの当選確率ではないため、必ずしも購入個数と当選確率が伴うものではございません。予めご了承ください。
+※使用デザイン（描き下ろしを含む）については、くじ引き堂以外で使用する場合がございます。
+※本商品の販売は、国内・海外それぞれの店舗において、予告なく内容の変更や、販売期間の終了・延長・再販売をする場合があります。海外での販売につきましては、FAQにてご案内している各店舗ホームページにてご確認ください。
+For information on overseas sales of this product, please visit the official website of the store in question. You can find the URLs of each store in our FAQ.", 
+    "tags": ["わたしの幸せな結婚", "抽籤堂"],
+    "price": 190,
+    "image_url": "https://kujibikido.com/lp/watakon/img/kv_pc.png",
+    "show_n": 0,
+    "like_count": 0,
+    "total_draws": 100,
+    "created_at": "2025-12-19T00:00:00"
   }
 ]
