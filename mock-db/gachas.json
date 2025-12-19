@@ -24,5 +24,18 @@
     "like_count": 0,
     "total_draws": 80,
     "created_at": "2025-12-18T00:00:00"
+  },
+  {
+    "id": 1003,
+    "code": "ONEONE-31003",
+    "name": "わたしの幸せな結婚",
+    "description": "XXXXXX", 
+    "tags": ["わたしの幸せな結婚", "抽籤堂"],
+    "price": 190,
+    "image_url": "https://kujibikido.com/lp/watakon/img/kv_pc.png",
+    "show_n": 0,
+    "like_count": 0,
+    "total_draws": 100,
+    "created_at": "2025-12-19T00:00:00"
   }
 ]
